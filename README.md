@@ -1,4 +1,4 @@
-![Background Image](bg.jpeg)
+![Background Image](cover.jpeg)
 <h1 align="center">Hi 👋, I'm Pranay Sampang</h1>
 <h3 align="center">I'm a passionate Web developer who loves building robust and scalable web applications using the latest technologies.</h3>
 
