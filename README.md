@@ -1,3 +1,4 @@
+![Cover Image](cover.png)
 <h1 align="center">Hi there, I'm Pranay Sampang 👋</h1>
 
 <h4 3align="center">I'm a passionate Web developer who loves building robust and scalable web applications using the latest technologies.</h4>
