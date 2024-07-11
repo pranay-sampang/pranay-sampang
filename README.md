@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pranay Sampang</h1>
 <h3 align="center">I'm a passionate Web developer who loves building robust and scalable web applications using the latest technologies.</h3>
 
+- 🌱 I’m currently working on **Laravel, Codeigniter and Javascript**
+
 - 💬 Ask me about **Laravel, Codeigniter**
 
 - 📫 How to reach me **sampangpranayofficial@gmail.com**
