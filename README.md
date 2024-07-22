@@ -37,6 +37,7 @@
 <a href="https://code.visualstudio.com" target="blank"><img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:10px;" /></a>
 <a href="https://git-scm.com" target="blank"><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding:10px;" /></a>
 <br />
+<br />
 
 ---
 
