@@ -1,7 +1,7 @@
 ![Cover Image](cover.png)
 <h1 align="center">Hi there, I'm Pranay Sampang 👋</h1>
 
-<h4 3align="center">I'm a passionate Web developer who loves building robust and scalable web applications using the latest technologies.</h4>
+<h4 align="center">I'm a passionate Web developer who loves building robust and scalable web applications using the latest technologies.</h4>
 
 - 🌱 I’m currently working on **Laravel, Codeigniter and Javascript**
 
@@ -38,11 +38,12 @@
 <a href="https://git-scm.com" target="blank"><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding:10px;" /></a>
 <br />
 <br />
+<br />
 
 ---
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary style="text-align:left;">:zap: Most Used Languages</summary>
   <p align="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranay-sampang&show_icons=true&locale=en&layout=compact" alt="pranay-sampang" />
   </p>
@@ -51,7 +52,7 @@
 ---
 
 <details>
-  <summary>:zap: Streak Stats</summary>
+  <summary style="text-align:left;">:zap: Streak Stats</summary>
   <p align="left">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranay-sampang&" alt="pranay-sampang" />
   </p>
